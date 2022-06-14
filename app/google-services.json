@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482777348115",
+    "project_id": "kt-login-d3cda",
+    "storage_bucket": "kt-login-d3cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482777348115:android:66778746e89acc9ae627e6",
+        "android_client_info": {
+          "package_name": "andres.personal.matchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482777348115-a9io4j05d17n43ii367fvtk17sfbnkuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFWSazux6ti3aSY_f_Qvh7b3TIMix2LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482777348115-a9io4j05d17n43ii367fvtk17sfbnkuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
